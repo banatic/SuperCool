@@ -1,0 +1,2 @@
+# SuperCool
+CoolMessenger Add-on
